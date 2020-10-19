@@ -1,0 +1,3 @@
+venv/
+blog_api/site.db
+__pycache__
